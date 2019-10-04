@@ -1,32 +1,29 @@
-# Dad Souls #
+# Dad Souls
 
-Project 2: _Dad Souls_
-
-![Dad Souls](/public/images/game_Screen.png)
+![screenshot of main page](/public/images/game_Screen.png)
 
 Dad Souls is a battle game where a user creates a profile to fight other profiles.
 
-A simple turned based battle game that allows users to fight other profiles. 
-
 ## Instructions
 
-- The user first creates a user account and profile.
-- Then user signs in and select his character and battling gear.
-- Then goes to the battle screen to battle on...
+- The user first creates an account by picking a username, password, and entering their email. They select a character and battle against another dad.
 
-## Technologies
+![screenshot of battle page](/public/images/battle.png)
+
+## Technologies Used
 
 - Node.js
 - BCrypt
 - Sass
 - NPM Packages:
+
   - Express
-  - Express-Handlers
+  - Express-Handlebars
   - Node-sass
   - Nodemon
 
-Heroku demo link:
+- [See it on Heroku](https://dadsouls.herokuapp.com/)
 
 ---
 
-###### Developed by [Zeph Tambornino](https://zefraine.github.io/My-Porfolio/), Christian Breyer, [Seifu Dagnachew](https://dagnachew.github.io/Responsive-Portfolio/), Chris Krinkie, Daniel Thao, [Alexandria Wagner](https://alexandriamw.github.io/Responsive-Portfolio/) for a 7 day project
+###### Developed by [Zeph Tambornino](https://zefraine.github.io/My-Porfolio/), [Christian Breyer](https://github.com/RedChristian77), [Seifu Dagnachew](https://dagnachew.github.io/Responsive-Portfolio/), [Chris Krinkie](https://github.com/Ckrnke), [Daniel Thao](https://github.com/daniel-thao), and [Alexandria Wagner](https://alexandriamw.github.io/Responsive-Portfolio/) for a 7 day project
